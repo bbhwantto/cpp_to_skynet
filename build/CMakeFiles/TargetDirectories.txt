@@ -1,0 +1,3 @@
+/mnt/d/baiwanzaixian/baiwan_cpp/build/CMakeFiles/sunnet.dir
+/mnt/d/baiwanzaixian/baiwan_cpp/build/CMakeFiles/edit_cache.dir
+/mnt/d/baiwanzaixian/baiwan_cpp/build/CMakeFiles/rebuild_cache.dir
